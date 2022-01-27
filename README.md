@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gadeveloper
-- 👀 I’m interested in web technology
+- 👀 I’m interested in web technology (html5, javascript,vuejs, php, go, python).
 - 🌱 I’m currently learning vuejs and more web technology.
 
 <!---
